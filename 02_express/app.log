@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"3.722\"}","timestamp":"2025-01-21T09:25:04.747Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/games\",\"status\":\"201\",\"responseTime\":\"20.275\"}","timestamp":"2025-01-21T09:27:06.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/games\",\"status\":\"200\",\"responseTime\":\"1.489\"}","timestamp":"2025-01-21T09:27:32.937Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request was made","timestamp":"2025-01-21T09:31:10.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/games\",\"status\":\"201\",\"responseTime\":\"18.255\"}","timestamp":"2025-01-21T09:31:10.792Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/games\",\"status\":\"200\",\"responseTime\":\"0.831\"}","timestamp":"2025-01-21T09:31:29.220Z"}
